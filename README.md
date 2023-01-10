@@ -1,4 +1,6 @@
 ### Olá!Eu sou o Gabriel
+Sou um entusiasta da tecnologia.Atualmente busco conhecimento na área e pretendo me tornar um Dev!
+
 <div align="center">
   <a href="https://github.com/Bielcmp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bielcmp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
